@@ -1,0 +1,6 @@
+terraform fmt
+    * Fmt the scripts in canonical style
+terraform plan
+    * Plan for the execution
+terraform apply
+    * Apply the given plan

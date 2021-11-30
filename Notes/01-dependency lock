@@ -1,0 +1,7 @@
+Terraaform dependency lock 
+    * We can constraint the providers at a specific version
+    * major.minor.patch
+        * If patch given it will ensure major.minor is maintained
+        * IF pathc not given only major will be mainintanied
+
+    
