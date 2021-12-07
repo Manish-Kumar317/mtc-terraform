@@ -4,3 +4,14 @@ terraform plan
     * Plan for the execution
 terraform apply
     * Apply the given plan
+terraform console
+    * Access the stuff present on the state file only
+terraform state 
+    * For state mangement
+    * rm - to remove a particular resource from the state file
+terraform import
+    * Import resources into terraform
+    * Need to manually define the configuration of the resource before we destroy it
+terraform refresh
+    * basically it does terraform apply --refresh-only --auto-approve. Risky
+    * Instead use terraform apply --refresh-onl only to review the changes  
