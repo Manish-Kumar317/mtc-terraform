@@ -1,0 +1,6 @@
+Sensitive Variables
+    * Hide the variables in output and from console
+    * but not in AWs state file
+
+Local values
+    * 

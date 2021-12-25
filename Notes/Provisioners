@@ -1,0 +1,6 @@
+Provisoners
+    * Types
+        * local-exec
+        * Remote-exec
+    * Not recommneded
+    * better tools available
