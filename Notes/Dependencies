@@ -1,0 +1,6 @@
+Types of dependencies
+    * Implicit
+        * When tf itself identifies that one resource is dependent of the other resource
+    * Explicit
+        * To introduce a dependency on another resource
+        * depends_on
