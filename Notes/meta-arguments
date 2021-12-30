@@ -1,2 +1,9 @@
 * Count
 * For_each
+    * For maps or set of strings
+    * Keys or values(in case of set of strings) must be known before apply
+    * each.key and each.value are same for a set of strings
+* Lifecycle
+    * create_before_destroy
+    * prevent_destroy
+    * ignore_changes

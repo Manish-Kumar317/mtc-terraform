@@ -1,0 +1,3 @@
+Cyclic dependency
+    * When two resources are dependent on each other. 
+    * So none can be creaated without the other being created first
