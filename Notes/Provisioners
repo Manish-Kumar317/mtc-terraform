@@ -4,3 +4,5 @@ Provisoners
         * Remote-exec
     * Not recommneded
     * better tools available
+    * when - destory or create
+    * on_failure - continue or fail
