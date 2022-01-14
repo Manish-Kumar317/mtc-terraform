@@ -1,6 +1,6 @@
  * Splat
  * for
-
- * Named references
-    * Self
-        * Provisoner and connection blocks
+ * Dynamic blocks
+    * Create blocks based a complex map. Could be used instead of for_each
+    * Not to overuse it 
+    * Can be nested as well

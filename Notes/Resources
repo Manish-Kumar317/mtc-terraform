@@ -1,1 +1,4 @@
 Null resource
+
+random_resource 
+    * keepers

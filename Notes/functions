@@ -1,3 +1,5 @@
 * Join
 * Min and max functions
     * If the numbers are in a list or set value, use ... to expand the collection to individual arguments:
+templatefile 
+    * templatefile(path,vars)
