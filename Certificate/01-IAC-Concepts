@@ -1,0 +1,16 @@
+Manual configuration
+    * Chances of mis-configuration
+    * Difficult to transfer the configuration knowledge to other team members
+
+IAC
+    * Automate creating updating and destroying cloud infra
+
+SDLC of infra  
+    * Plan design test deliver maintain and retire cloud infra
+
+Reliabiltiy
+    * Idempotent and predictable consistent infra
+
+Configuration Drift
+    * Changes that go unnoticed when performing infra automation
+    * These configuration changes should be detected, corrected and prevented with tools like aws config ,bridgecrew ,etc

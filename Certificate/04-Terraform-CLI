@@ -1,0 +1,8 @@
+    terraform init
+    terraform fmt
+        * Indent and formatting of the file
+    terraform validate
+        * check if all the arrtibutes of a resource are provided
+        * syntax check
+    terraform plan
+        * A plan to display the change in infra that will be performed

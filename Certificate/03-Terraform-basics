@@ -1,0 +1,17 @@
+Terraform lifecyle
+    * Code->init->plan->validate->apply->destroy
+
+Change Automation
+Execution plans
+Visuslize plan
+    * terraform graph
+
+Use cases
+    * Exotic providors
+    * Disposable environments
+    * resources shecudlers
+    * Multi cloud deployment
+
+Terraform core and plugins 
+    * Terraform core (Golang) - Use remote procedure calls to communicate with terraform plugins
+    * Terraform plugins - Expose an implementation for a specific service

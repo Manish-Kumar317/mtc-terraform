@@ -1,0 +1,11 @@
+Types of terraform provisioners
+    * Cloud-init or packer
+    * file
+    * local_exec
+    * remote_exec
+        * Modes
+            * inline
+            * sciprt
+            * scripts
+    * connection
+        * to rpovide details to connect to remote host 
